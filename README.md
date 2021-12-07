@@ -4,9 +4,7 @@ I'm interested in economics, statistics, data science, decentralized finance, NF
 
 You'll catch me on twitter @unvrfy. Feel free to reach out!
 
-Talk soon.
-
-Garret
+Talk soon!
 
 <!---
 garretcq/garretcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
