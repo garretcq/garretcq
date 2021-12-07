@@ -2,7 +2,7 @@ Hey, I'm Garret.
 
 I'm interested in economics, statistics, data science, decentralized finance, NFTS, and web development (specifically in web 3.0). I'm currently learning C++ and Python via Codecademy.com and am using Github as a location to practice projects. I'm pursuing a degree in statistics and psychology.
 
-You'll catch me on twitter @_unvrfy. Feel free to reach out!
+You'll catch me on twitter @unvrfy. Feel free to reach out!
 
 Talk soon.
 
