@@ -4,7 +4,8 @@ I'm interested in economics, statistics, data science, decentralized finance, NF
 
 You'll catch me on twitter @garretquinton. Feel free to reach out!
 
-gm,
+Talk soon.
+
 Garret
 
 <!---
