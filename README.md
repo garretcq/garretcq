@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @garretcq
-- 👀 I’m interested in data science, DeFi, NFTs, Web 3.0, and website development.
-- 🌱 I’m currently learning C++ via Codecademy, and am working on test projects to practice.
-- 💞️ I’m looking to collaborate on cryptocurrency projects.
-- 📫 How to reach me: https://twitter.com/jargonomics
+- Hey, I'm Garret.
+- 
+- I'm interested in economics, statistics, data science, decentralized finance, NFTS, and web development (specifically in web 3.0). I'm currently learning C++ and Python via Codecademy.com and am using Github as a location to practice projects. I'm pursuing a degree in statistics and psychology.
+- 
+- You'll catch me on twitter @garretquinton. Feel free to reach out!
+
+- gm,
+- Garret
+
 
 <!---
 garretcq/garretcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
