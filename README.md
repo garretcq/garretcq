@@ -1,8 +1,8 @@
 Hey, I'm Garret.
 
-I'm interested in economics, statistics, data science, decentralized finance, NFTS, and web development (specifically in web 3.0). I'm currently learning C++ and Python via Codecademy.com and am using Github as a location to practice projects. I'm pursuing a degree in statistics and psychology.
+I'm interested in economics, statistics, data science, decentralized finance, NFTS, and web development (specifically in web 3.0). I'm currently learning C++ and Python via and am using Github and Replit as practice hubs. I'm pursuing a degree in economics/math/psychology
 
-You'll catch me on twitter, and here. Feel free to reach out!
+You'll catch me on twitter, linkedin, and here. Feel free to reach out!
 
 Talk soon, and good luck.
 
