@@ -1,6 +1,6 @@
 Hey, I'm Garret.
 
-I'm interested in economics, statistics, data science, decentralized finance, blockchain, and impact investing. I've worked with a variety of social ventures and launched my university's impact investing association. I'm currently pursuing a degree in economics/strategy, and use Github and Replit to practice coding.
+I'm interested in economics, statistics, data science, decentralized finance, blockchain, and impact investing. I've worked with a variety of social ventures and launched my university's impact investing association. I'm currently pursuing a degree in economics/strategy, and using Github and Replit to practice coding.
 
 You'll catch me on Twitter, Linkedin. Feel free to reach out!
 
