@@ -1,10 +1,25 @@
 Hey, I'm Garret.
 
-I'm interested in economics, statistics, data science, decentralized finance, blockchain, and impact investing. I've worked with a variety of social ventures and launched my university's impact investing association. I'm currently pursuing a degree in economics/strategy, and using Github and Replit to practice coding.
+INTERESTS
+economics
+psychology
+statistics
+strategy
+DeFi / blockchain / crypto
+impact investing
 
-You'll catch me on Twitter, Linkedin. Feel free to reach out!
+EXPERIENCE
+worked with social ventures
+launched university impact investing association
+studying economics
+currently learning data science in my free time
 
-Talk soon, and good luck.
+CONTACT ME
+linkedin
+twitter
+
+Thanks for being here,
+Garret
 
 <!---
 garretcq/garretcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
