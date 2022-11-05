@@ -1,22 +1,10 @@
 Hey, I'm Garret.
 
-INTERESTS
-economics
-psychology
-statistics
-strategy
-DeFi / blockchain / crypto
-impact investing
+INTERESTS: economics, psychology, statistics, strategy, DeFi / blockchain / crypto, impact investing
 
-EXPERIENCE
-worked with social ventures
-launched university impact investing association
-studying economics
-currently learning data science in my free time
+EXPERIENCE: worked with social ventures, launched university impact investing association, studying economics, currently learning data science in my free time
 
-CONTACT ME
-linkedin
-twitter
+CONTACT ME: linkedin, twitter
 
 Thanks for being here,
 Garret
