@@ -7,6 +7,7 @@ EXPERIENCE: worked with social ventures, launched university impact investing as
 CONTACT ME: linkedin, twitter
 
 Thanks for being here,
+
 Garret
 
 <!---
