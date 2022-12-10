@@ -1,10 +1,8 @@
 Hey, I'm Garret.
 
-INTERESTS: economics, psychology, statistics, strategy, decentralized finance, impact investing
+I spend my free time thinking about economics, psychology, statistics, strategy, finance, impact investing.
 
-EXPERIENCE: worked with social ventures, launched university impact investing association, studying economics, currently learning data science in my free time
-
-CONTACT ME: linkedin, twitter
+You can find me on LinkedIn, Twitter, or on Substack.
 
 Thanks for being here,
 
