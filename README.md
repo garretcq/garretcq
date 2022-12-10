@@ -1,6 +1,6 @@
 Hey, I'm Garret.
 
-I spend my free time thinking about economics, psychology, statistics, strategy, finance, technology, organizational behavior, impact investing, etc.
+I'm a student of Brigham Young University. I spend my free time thinking about economics, psychology, statistics, strategy, finance, technology, organizational behavior, impact investing, etc. I'm currently learning Python for strategy analytics purposes.
 
 You can find me on LinkedIn, Twitter, or on Substack.
 
