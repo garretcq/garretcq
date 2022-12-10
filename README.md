@@ -4,9 +4,9 @@ I'm a student of Brigham Young University. I spend my free time thinking about e
 
 You can find me on LinkedIn, Twitter, or on Substack.
 
-Thanks for being here,
+Thanks for being here.
 
-Garret
+—Garret
 
 <!---
 garretcq/garretcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
