@@ -1,6 +1,6 @@
 Hey, I'm Garret.
 
-I spend my free time thinking about economics, psychology, statistics, strategy, finance, impact investing.
+I spend my free time thinking about economics, psychology, statistics, strategy, finance, technology, organizational behavior, impact investing, etc.
 
 You can find me on LinkedIn, Twitter, or on Substack.
 
