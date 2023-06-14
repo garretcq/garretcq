@@ -10,7 +10,7 @@ You can find me on LinkedIn, Twitter, or on Substack.
 
 Thanks for being here.
 
-—Garret
+—GQ
 
 <!---
 garretcq/garretcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
