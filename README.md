@@ -1,7 +1,9 @@
 Welcome!
 
-I'm an optimist, futurist, and behaviorist.
+I consider myself to be an optimist, futurist, and behaviorist.
+
 I'm exploring the intersection of technology, finance, & design.
+
 You can find me on LinkedIn, Twitter, or on Substack.
 
 Thanks for being here.
