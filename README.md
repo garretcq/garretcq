@@ -1,6 +1,10 @@
 Welcome!
 
-I'm a student of Brigham Young University. I spend my free time thinking about economics, psychology, statistics, strategy, finance, technology, organizational behavior, impact investing, philosophy, society, etc. I'm currently learning Python and R for strategy analytics purposes.
+Futurist. Optimist. Behaviorist.
+
+Exploring the intersection of technology, finance, and design.
+
+Topics of interest: economics, psychology, statistics, strategy, finance, technology, organizational behavior, impact investing, philosophy, society, etc.
 
 You can find me on LinkedIn, Twitter, or on Substack.
 
