@@ -1,16 +1,15 @@
 Welcome!
 
-Futurist. Optimist. Behaviorist.
-
-Exploring the intersection of technology, finance, and design.
-
-Topics of interest: economics, psychology, statistics, strategy, finance, technology, organizational behavior, impact investing, philosophy, society, etc.
-
+I'm an optimist, futurist, and behaviorist.
+I'm exploring the intersection of technology, finance, & design.
 You can find me on LinkedIn, Twitter, or on Substack.
 
 Thanks for being here.
 
 —GQ
+
+Interests: financial innovation, organizational behavior, impact investing, technological leverage, human-centered design, philosophy, culture, ethics, etc.
+
 
 <!---
 garretcq/garretcq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
