@@ -1,6 +1,10 @@
 Welcome!
 
-I consider myself to be an optimist, futurist, and behaviorist.
+Optimist: hoping for the best.
+
+Futurist: exploring the future.
+
+Behaviorist: studying humanity.
 
 I'm here exploring the intersection of technology, finance, & design.
 
