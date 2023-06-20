@@ -1,10 +1,6 @@
 Welcome!
 
-Optimist: hoping for the best.
-Futurist: exploring the future.
-Behaviorist: studying humanity.
-
-I'm here exploring the intersection of technology, finance, & design.
+Futurist. Optimist. Behaviorist. Exploring the intersection of technology, finance, & design.
 
 You can find me on LinkedIn, Twitter, or on Substack.
 
