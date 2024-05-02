@@ -1,14 +1,16 @@
-Welcome!
+                  d8b          888                     
+                  Y8P          888                     
+                               888                     
+ .d88888 888  888 888 88888b.  888888 .d88b.  88888b.  
+d88" 888 888  888 888 888 "88b 888   d88""88b 888 "88b 
+888  888 888  888 888 888  888 888   888  888 888  888 
+Y88b 888 Y88b 888 888 888  888 Y88b. Y88..88P 888  888 
+ "Y88888  "Y88888 888 888  888  "Y888 "Y88P"  888  888 
+     888                                               
+     888                                               
+     888 
 
-Futurist. Optimist. Behaviorist. Exploring the intersection of technology, finance, & design.
-
-You can find me on LinkedIn, Twitter, or on Substack.
-
-Thanks for stopping by.
-
-—GQ
-
-Interests: financial innovation, organizational behavior, impact investing, technological leverage, human-centered design, philosophy, culture, ethics, etc.
+Tags: behavior, strategy, finance, technology, design, philosophy.
 
 
 <!---
